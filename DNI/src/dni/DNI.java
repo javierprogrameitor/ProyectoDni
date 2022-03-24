@@ -31,6 +31,10 @@ package dni;
 
 
         // MÃ©todos
+        
+        public class MetodoGIT{
+        	//Este método es solamente de pruebas para insertar commit en GitHub
+        }
 
 
         public String obtenerNIF () {
